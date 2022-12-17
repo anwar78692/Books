@@ -1,0 +1,24 @@
+html {
+    background-color:lightblue;
+}
+
+.header {
+    text-align: center;
+    color:limegreen;
+    display: flex;
+}
+
+.input {
+    border-radius: 3rem;
+
+}
+h3 {
+    text-align: center;
+}
+
+.button {
+    border-radius: 3rem;
+    background-color: coral;
+    color: white;
+
+}
